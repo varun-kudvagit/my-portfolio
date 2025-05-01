@@ -1,6 +1,6 @@
 Welcome to my personal portfolio! This is a website showcasing my skills, projects, and experience. It is built using HTML and CSS, with a focus on clean, responsive design.
 
-🌐 Live Demo:
+🌐 Live Demo:https://varunkudvamyportfolio.netlify.app
 
 📌 Features:
 
@@ -12,5 +12,5 @@ Welcome to my personal portfolio! This is a website showcasing my skills, projec
 
 Tech Stack
 
-HTML5
-CSS3
+HTML5,
+ CSS3
